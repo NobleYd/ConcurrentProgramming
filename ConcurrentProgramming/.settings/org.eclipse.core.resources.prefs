@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/chapter2/AccountSync.java=GBK
+encoding//src/chapter2/ArrayListMultiThread.java=GBK
+encoding//src/chapter2/BadLockOnInteger.java=GBK
+encoding//src/chapter2/DaemonDemo.java=GBK
+encoding//src/chapter2/HashMapMultiThread.java=GBK
+encoding//src/chapter2/InterruptAndStopThread.java=GBK
+encoding//src/chapter2/InterruptThread.java=GBK
+encoding//src/chapter2/JoinMain.java=GBK
+encoding//src/chapter2/PriorityDemo.java=GBK
+encoding//src/chapter2/SimpleWaitAndNotify.java=GBK
+encoding//src/chapter2/VolatileDemo.java=GBK
+encoding//src/chapter3/CountDownLatchDemo.java=GBK
+encoding//src/chapter3/CyclicBarrierDemo.java=GBK
+encoding/<project>=GBK
